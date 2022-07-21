@@ -19,7 +19,7 @@
 <br/>
 
  
-<h2>FRONT END : </h2>
+<h2>FRONTEND : </h2>
   <img alt="HTML5" title="HTML" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS3" title="CSS" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="Bootstrap" title="Bootstrap" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
@@ -29,7 +29,7 @@
   <img alt="Vuejs" title="Vuejs" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <br/>
 
-<h2>BACK END : </h2>
+<h2>BACKEND : </h2>
   <img alt="NodeJS" title="NodeJS" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
