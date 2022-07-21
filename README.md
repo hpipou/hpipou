@@ -6,19 +6,7 @@
   <h3>MONGO DB - EXPESS - ANGULAR - NOD JS</h3>
   <hr>
 </div>
-  
-</br>
 
-  
-<br/>
-<br/>
-  
-<div>I started learning to code in January '21. Before I had my photography business and was a commercial in big companies.</div>
-  
-<br/>
-<br/>
-
- 
 <h2>FRONTEND : </h2>
   <img alt="HTML5" title="HTML" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS3" title="CSS" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -45,13 +33,15 @@
   <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img alt="Git" title="Git" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="VS Code" title="VS Code" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="VS Code" title="VS Code" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
   <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
   
 <h2>SYSTEME D'EXPLOITATION : </h2>
   <img alt="ubuntu" title="ubuntu" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-  <img alt="ubuntu" title="ubuntu" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img alt="ubuntu" title="ubuntu" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  <img alt="linux" title="linux" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img alt="windows" title="windows" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  <img alt="fedora" title="fedora" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>
 <br/>
   
 <h2>STATISTIQUES :</h2>
