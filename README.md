@@ -48,35 +48,26 @@
   <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
   <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
   
-  
-  
-  
 <h2>SYSTEME D'EXPLOITATION : </h2>
   <img alt="ubuntu" title="ubuntu" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
   <img alt="ubuntu" title="ubuntu" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img alt="ubuntu" title="ubuntu" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 <br/>
   
-  
-
-  
-<br/>
-<br/>
+<h2>STATISTIQUES :</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpipou&show_icons=true&theme=radical)
 <br/>
 <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpipou&layout=compact&theme=react" alt="Top languages" />
-
-
 <br/>
 
 <div>
   <h2>📫 ME CONTACTER :</h2>
   <a href="https://www.linkedin.com/in/carolinesenes">
-    <img alt="linkedin" title="LinkedIn" width="65px" src="https://user-images.githubusercontent.com/64198045/143304055-362fe9e0-c016-4e1f-8cd3-1488ccafaa48.gif"/>
+    <img alt="linkedin" title="LinkedIn" width="120px" src="https://user-images.githubusercontent.com/64198045/143304055-362fe9e0-c016-4e1f-8cd3-1488ccafaa48.gif"/>
   </a>
   <a href="https://www.aoudjit.com">
-   <img alt="twitter" title="Twitter" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" />
+   <img alt="twitter" title="Twitter" width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" />
   </a>
 </div>
 
