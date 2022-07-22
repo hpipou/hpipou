@@ -2,7 +2,7 @@
 
 <div>
   <h1>DÉVELOPPEUR FULL STACK</h1>
-  <img alt="CSS3" title="CSS" width="495px" src="https://miro.medium.com/max/640/1*_Gh0dftg_VllaObO8_UqGg.png"/>
+  <img alt="MEAN STACK" title="MEAN STACK" width="495px" src="https://miro.medium.com/max/640/1*_Gh0dftg_VllaObO8_UqGg.png"/>
   <h3>MONGO DB - EXPESS - ANGULAR - NOD JS</h3>
   <hr>
 </div>
@@ -12,30 +12,30 @@
   <img alt="CSS3" title="CSS" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="Bootstrap" title="Bootstrap" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img alt="JS" title="JS" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img alt="typescript" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img alt="Angular" title="Angular" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img alt="Vuejs" title="Vuejs" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <br/>
 
 <h2>BACKEND : </h2>
   <img alt="NodeJS" title="NodeJS" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img alt="php" title="php" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img alt="spring" title="spring" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <br/>
 
 <h2>BASE DE DONNÉES </h2>
   <img alt="mongodb" title="MongoDB" width="90px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+  <img alt="mysql" title="mysql" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img alt="firebase" title="firebase" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
 <br/>
 
 <h2>OUTILS : </h2>
   <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img alt="Git" title="Git" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="VS Code" title="VS Code" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="VS Code" title="VS Code" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-  <img alt="figma" title="Figma" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
+  <img alt="intellij" title="intellij" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img alt="photoshop" title="photoshop" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+  <img alt="aftereffects" title="aftereffects" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
   
 <h2>SYSTEME D'EXPLOITATION : </h2>
   <img alt="ubuntu" title="ubuntu" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
