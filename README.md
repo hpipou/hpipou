@@ -3,7 +3,7 @@
 <div>
   <h1>DÉVELOPPEUR FULL STACK</h1>
   <img alt="MEAN STACK" title="MEAN STACK" width="495px" src="https://miro.medium.com/max/640/1*_Gh0dftg_VllaObO8_UqGg.png"/>
-  <h3>MONGO DB - EXPESS - ANGULAR - NOD JS</h3>
+  <h3>MONGO DB - EXPESS - ANGULAR - NODE JS</h3>
   <hr>
 </div>
 
